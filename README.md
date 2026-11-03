@@ -42,6 +42,23 @@ The ETL loads completed loans only. It excludes a dummy administrative membershi
 5. Which genres have longer loans and higher late-return rates?
 6. Which three genres are most popular within each membership tier?
 
+## Data Visualisations
+
+### 1. Borrowing Activity by Day
+![Average loans by observed day](images/loans_by_day.png)
+
+Weekend borrowing was substantially higher than weekday borrowing on dates with completed-loan activity.
+
+### 2. Membership Tier Analysis
+![Average loans by membership tier](images/loans_by_membership_tier.png)
+
+Premium members averaged 68 completed loans, compared with 34 for Basic members.
+
+### 3. Most Borrowed Books
+![Top 5 books by completed loans](images/top_books.png)
+
+*The Living World (3rd Edition)* recorded the highest number of completed loans at 91.
+
 ## Selected findings
 
 - **Membership engagement:** Premium members averaged **68.0** completed loans per member, versus **34.0** for Basic members. This association does **not** establish that higher tier limits caused more borrowing.
