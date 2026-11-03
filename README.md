@@ -83,6 +83,13 @@ library-data-warehouse-analysis/
 - The membership-average query counts members present in completed loan transactions, not necessarily every member in a tier.
 - The weekday query divides by dates with completed transactions, not every calendar day.
 
-## Attribution and publication
+## Attribution 
 
-Developed as a **three-member academic group project**. Individual responsibilities should be documented accurately before using this repository as evidence of personal contributions. Confirm that publishing the assignment code and diagram is permitted by your school and teammates before making these files public.
+This project was developed as part of a three-member academic group assignment for the Data Engineering module at Singapore Polytechnic.
+
+## My Contributions:
+
+- Developed SQL scripts for data warehouse creation and data transformation.
+- Designed and implemented a star-schema data warehouse.
+- Wrote SQL queries to analyse borrowing patterns and library operations.
+- Contributed to data validation, interpretation of results and documentation.
